@@ -19,6 +19,7 @@ que ce soit un device physique ou un émulateur.</br>
 🏷️[Installation du framework](#installation-du-framework)<br/>
 🏷️[Pré-requis](#prérequis)</br>
 🏷️[Exécution du framework](#exécution-du-framework)<br/>
+🏷️[Reporting](#Reporting)<br/>
 🏷️[Mise à jour et adaptation du Framework](#mise-à-jour-et-adaptation-du-framework)<br/>
 🏷️[Déboggage et Maintenance](#déboggage-et-maintenance)<br/>
 
