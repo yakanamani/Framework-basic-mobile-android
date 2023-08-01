@@ -1,5 +1,5 @@
-# Mobile_Basic_Framework_Android
-Mobile_Basic_Framework_Android est un framework d'automatisation mobile basé sur Appium et TestNG et qui s'exécute sur les devices Android.
+# Framework-basic-mobile-android
+Framework-basic-mobile-android est un framework d'automatisation mobile basé sur Appium et TestNG et qui s'exécute sur les devices Android.
 
 Si vous souhaitez tester une application mobile de préférence sur Android.</br>
 🌟Si vous êtes `TESTEUR AUTOMATICIEN` et que vous voulez apprendre à automatiser des tests fonctionnels.</br>
