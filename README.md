@@ -1,4 +1,4 @@
-# Framework-basic-mobile-android
+# TestNG Framework with Appium, Java 11 and Allure Report
 Framework-basic-mobile-android est un framework d'automatisation mobile basé sur Appium et TestNG et qui s'exécute sur les devices Android.
 
 Si vous souhaitez tester une application mobile de préférence sur Android.</br>
