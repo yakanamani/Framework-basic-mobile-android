@@ -11,7 +11,7 @@ que ce soit un device physique ou un émulateur.</br>
 🎁 Vous pouvez un rapport détaillé des tests sur Allure.</br>
 🎁 Il s'exécute également sur la plateforme `Windows 10 et 11`.</br>
 
-### Sommaire:
+### 🎯Sommaire:
 🏷️[Architecture et Présentation du framework](#architecture-et-présentation-du-framework)<br/>
 🏷️[Technologies et outils utilisés](#technologies-et-outils-utilisés)</br>
 🏷️[Fonctionnalités](#fonctionnalités)<br/>
@@ -22,7 +22,7 @@ que ce soit un device physique ou un émulateur.</br>
 🏷️[Mise à jour et adaptation du Framework](#mise-à-jour-et-adaptation-du-framework)<br/>
 🏷️[Déboggage et Maintenance](#déboggage-et-maintenance)<br/>
 
-## 🎯Architecture et Présentation du framework 
+### 🎯Architecture et Présentation du framework 
 ````
 📦Mobile_Basic_Framework_Android
 ┣ 📂src
