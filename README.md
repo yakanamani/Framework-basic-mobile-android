@@ -25,7 +25,7 @@ que ce soit un device physique ou un émulateur.</br>
 
 ### 🎯Architecture et Présentation du framework 
 ````
-📦Mobile_Basic_Framework_Android
+📦framework-simple-mobile-android
 ┣ 📂src
 ┃ ┣ 📂main
 ┃ ┃ ┣ 📂resources
